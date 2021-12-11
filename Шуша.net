@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<title>Шуша.NET</title>
+</head>
+<body>
+
+<table
+border="10"
+align="center"
+rules="rows"
+style="width:100%;">
+
+<tr>
+
+<td>
+
+
+
+<table
+border="10"
+background="Бордер.png"
+bgcolor="#7FFFD4"
+cellpadding="10"
+style="width:100%; border-radius:30px;">
+
+<tr>
+
+<th>
+
+<h1>Шуша.NET</h1>
+<h3>Хост рассказов о Шуше</h3>
+
+</th>
+</tr>
+</table>
+
+
+<table
+border="10"
+bgcolor="#e6e6fa"
+background="https://img.novosti-n.org/upload/ukraine/505190.jpg"
+cellpadding="10"
+style="width:100%; border-radius:30px;">
+
+<tr>
+
+<td
+rowspan="2"
+style="width:100%">
+<h2>Инфо</h2>
+
+<p style="text-indent:50px">
+Здравствуйте уважаемые посетители сайта
+Этот сайт посвящён моим рассказам про Шушу,
+которые мы сами пишем.</p>
+
+<p style="text-indent:20px">Для выбора рассказа нажмите на соответствующую кнопку.</p>
+
+</td>
+
+
+<td bgcolor="#e6e6fa">
+<h3>Меню рассказов</h3>
+
+<p>
+
+<a href="Рассказ 1.html">
+
+
+<span style="margin-left:5px;">Шуша и Хомяк</span></a>
+
+</p>
+<p>
+<a href="Рассказ 2.html">
+
+<span style="margin-left:5px;">Шуша и Коты</span;></a>
+</p>
+<p>
+<a href="Рассказ 3.html">
+
+<span style="margin-left:5px;">Шуша и Щенок</span></a>
+</p>
+
+<a href="Рассказ 4.html">
+
+<span style="margin-left:5px;">Шуша и браслет</span;></a>
+</p>
+<p>
+
+<a href="Рассказ 5.html">
+
+<span style="margin-left:5px;">Шуша и Сова</span;></a>
+</p>
+<p>
+
+<a href="Рассказ 6.html">
+
+<span style="margin-left:5px;">Шуша и Геша и Коты</span;></a>
+</p>
+<p>
+
+</td>
+</tr>
+
+<tr>
+
+<td
+bgcolor="#e6e6fa"
+align="center">
+
+<input type="image" src="Кнопка Шуша инфо.png" onclick="window.location.href = 'Инфо о Шуше.html';" value="Информация о Шуше"/>
+<h1>   </h1>
+
+<input type="image" src="Кнопка Геша инфо.png" onclick="window.location.href = 'Инфо о Геше.html';" value="Информация о Геше"/>
+<link rel="shortcut icon" href="https://img.favpng.com/18/22/11/reptile-clip-art-silhouette-line-png-favpng-F1HK0thCsSu76aART0Qy8uZ8S.jpg" type="image/x-icon">
+</td>
+</tr>
+</table>
+<img src="https://trikky.ru/wp-content/blogs.dir/1/files/2014/07/24051.jpg">
+
+<table
+border="10"
+background="https://cdn.pixabay.com/photo/2015/10/04/10/11/lizard-970778_1280.jpg"
+bgcolor="#7FFFD4"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+
+<tr>
+
+<th>
+<h3>Конец страницы</h3>
+
+</th>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</body>
+</html>
